@@ -23,7 +23,7 @@ ptpdb==0.17
 ptpython==0.33
 ptyprocess==0.6.0         # via pexpect
 py==1.5.4                 # via pytest
-pydocstyle==2.1.1
+pydocstyle==5.0.2
 pygments==2.2.0           # via ipython, ptpython
 pympler==0.5
 pytest-interactive==0.1.4
