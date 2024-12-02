@@ -33,7 +33,7 @@ gnureadline==6.3.8
 graphviz==0.8.4           # via objgraph, xdot
 hunter==2.0.2
 idna==2.7                 # via cryptography, requests
-imagesize==1.0.0          # via sphinx
+imagesize==1.2.0          # via sphinx
 ipython-genutils==0.2.0   # via traitlets
 ipython==6.4.0
 isort==4.3.4
