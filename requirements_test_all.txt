@@ -4,7 +4,7 @@
 #
 #    pip-compile --output-file requirements_test_all.txt requirements_test_all.in
 #
-alabaster==0.7.11         # via sphinx
+alabaster==0.7.12         # via sphinx
 argh==0.26.2              # via watchdog
 asn1crypto==0.24.0        # via cryptography
 astroid==1.6.5            # via pylint
