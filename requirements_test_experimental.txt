@@ -25,7 +25,7 @@ ptyprocess==0.6.0         # via pexpect
 py==1.5.4                 # via pytest
 pydocstyle==2.1.1
 pygments==2.2.0           # via ipython, ptpython
-pympler==0.5
+pympler==0.8
 pytest-interactive==0.1.4
 pytest-ordering==0.5
 pytest==3.6.2             # via pytest-interactive, pytest-ordering
