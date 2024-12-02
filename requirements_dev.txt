@@ -33,7 +33,7 @@ flake8-polyfill==1.0.2    # via flake8-docstrings
 flake8==3.5.0
 freezegun==0.3.10
 gnureadline==6.3.8
-graphviz==0.8.4           # via objgraph, xdot
+graphviz==0.13.2           # via objgraph, xdot
 hunter==2.0.2
 idna==2.7                 # via cryptography, requests
 imagesize==1.0.0          # via sphinx
