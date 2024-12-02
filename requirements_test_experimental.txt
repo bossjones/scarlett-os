@@ -6,7 +6,7 @@
 #
 -e git+https://github.com/dropbox/pytest-flakefinder#egg=pytest-flakefinder
 atomicwrites==1.1.5       # via pytest
-attrs==18.1.0             # via pytest
+attrs==19.3.0             # via pytest
 backcall==0.1.0           # via ipython
 decorator==4.3.0          # via ipython, traitlets
 docopt==0.6.2             # via ptpython
