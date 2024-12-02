@@ -27,7 +27,7 @@ pydocstyle==2.1.1
 pygments==2.2.0           # via ipython, ptpython
 pympler==0.5
 pytest-interactive==0.1.4
-pytest-ordering==0.5
+pytest-ordering==0.6
 pytest==3.6.2             # via pytest-interactive, pytest-ordering
 simplegeneric==0.8.1      # via ipython
 six==1.11.0               # via more-itertools, prompt-toolkit, pydocstyle, pytest, traitlets
