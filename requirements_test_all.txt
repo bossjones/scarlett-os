@@ -50,7 +50,7 @@ objgraph==3.4.0
 packaging==17.1           # via sphinx
 parso==0.3.0              # via jedi
 pathtools==0.1.2          # via watchdog
-pbr==4.0.4                # via mock
+pbr==5.4.4                # via mock
 pexpect==4.6.0            # via ipython
 pickleshare==0.7.4        # via ipython
 pluggy==0.6.0             # via pytest
