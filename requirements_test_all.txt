@@ -93,4 +93,4 @@ urllib3==1.23             # via requests
 watchdog==0.8.3
 wcwidth==0.1.7            # via prompt-toolkit
 wrapt==1.10.11            # via astroid
-xdot==0.9
+xdot==1.1
