@@ -22,7 +22,7 @@ prompt-toolkit==1.0.15    # via ipython, ptpdb, ptpython
 ptpdb==0.17
 ptpython==0.33
 ptyprocess==0.6.0         # via pexpect
-py==1.5.4                 # via pytest
+py==1.8.1                 # via pytest
 pydocstyle==2.1.1
 pygments==2.2.0           # via ipython, ptpython
 pympler==0.5
