@@ -52,7 +52,7 @@ parso==0.3.0              # via jedi
 pathtools==0.1.2          # via watchdog
 pbr==4.0.4                # via mock
 pexpect==4.6.0            # via ipython
-pickleshare==0.7.4        # via ipython
+pickleshare==0.7.5        # via ipython
 pluggy==0.6.0             # via pytest
 plumbum==1.6.6            # via rpyc
 prompt-toolkit==1.0.15    # via ipython
