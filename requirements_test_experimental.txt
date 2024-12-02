@@ -8,7 +8,7 @@
 atomicwrites==1.1.5       # via pytest
 attrs==18.1.0             # via pytest
 backcall==0.1.0           # via ipython
-decorator==4.3.0          # via ipython, traitlets
+decorator==4.4.1          # via ipython, traitlets
 docopt==0.6.2             # via ptpython
 ipython-genutils==0.2.0   # via traitlets
 ipython==6.4.0            # via pytest-interactive
